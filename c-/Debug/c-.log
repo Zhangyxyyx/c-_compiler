@@ -1,0 +1,16 @@
+﻿  syntax_analyze.cpp
+c:\users\kelly\documents\visual studio 2017\projects\c-\c-\syntax_analyze.cpp(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\kelly\documents\visual studio 2017\projects\c-\c-\syntax_analyze.cpp(240): warning C4101: “temp”: 未引用的局部变量
+c:\users\kelly\documents\visual studio 2017\projects\c-\c-\syntax_analyze.cpp(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\kelly\documents\visual studio 2017\projects\c-\c-\syntax_analyze.cpp(440): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\kelly\documents\visual studio 2017\projects\c-\c-\syntax_analyze.cpp(446): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\kelly\documents\visual studio 2017\projects\c-\c-\syntax_analyze.cpp(458): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\kelly\documents\visual studio 2017\projects\c-\c-\syntax_analyze.cpp(644): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+  c-.vcxproj -> c:\users\kelly\documents\visual studio 2017\Projects\c-\Debug\c-.exe
+  c-.vcxproj -> c:\users\kelly\documents\visual studio 2017\Projects\c-\Debug\c-.pdb (Partial PDB)
